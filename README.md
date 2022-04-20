@@ -1,7 +1,7 @@
 # RLoginDoor
 This program is designed to allow an existing winsock connection to be inter-connected to an RLogin server.  An example of this in action (and the reason why I wrote this program) would be if you are running the GameSrv telnet server and want to run TWGS (Trade Wars Game Server) on the same machine, this will allow the connection to be passed from GameSrv to TWGS without having to run TWGS on a separate port for the users.
 
-This was developed in Visual Basic 6.0. I recently discovered a backup of this old code so I am releasing it to GitHub so I never lose it again.
+This was developed in Visual Basic 6.0. I recently discovered a backup of this old code. I am releasing it to GitHub mainly so I never lose it again, but anyone is free to do whatever they want with this code.
 
 ## COMMAND-LINE:
 
